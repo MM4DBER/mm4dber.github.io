@@ -51,7 +51,7 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 ### November 3rd Group Meeting 
 
-- Meeting (Tati presents & LTA): [Slides](https://drive.google.com/file/d/1QYdBuFT0gy7cDileShnpOI50tZPdoKp5/view?usp=drive_link)
+- Meeting (Tobi presents & LTA): [Slides](https://drive.google.com/file/d/1QYdBuFT0gy7cDileShnpOI50tZPdoKp5/view?usp=drive_link)
 - Video recording: [HERE](https://drive.google.com/file/d/1wmZ-8z_USdnV-YwXLCrLwzHB-T59EUqP/view?usp=sharing)
 
 ### Extra Resources: Latent Profile Analysis (LPA)
@@ -74,9 +74,8 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 ### January 11th Group Meeting 
 
 - Meeting (LPA presentation - Jake): [Handout](https://mm4dber.github.io/JW_LPA_1.13.24.pdf)
-- Repository materials: []()
 
-- Video recording: [HERE]()
+- Video recording: []()
 
 
 ------------------------------------------------------------------------
