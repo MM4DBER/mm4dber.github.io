@@ -71,6 +71,16 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 ------------------------------------------------------------------------
 
+### January 11th Group Meeting 
+
+- Meeting (LPA presentation - Jake): [Handout](https://mm4dber.github.io/JW_LPA_1.13.24.pdf)
+- Repository materials: []()
+
+- Video recording: [HERE]()
+
+
+------------------------------------------------------------------------
+
 Helpful Links:
 
 -   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
