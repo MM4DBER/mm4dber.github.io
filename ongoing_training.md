@@ -75,7 +75,11 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 - Meeting (LPA presentation - Jake): [Handout](https://mm4dber.github.io/JW_LPA_1.13.24.pdf)
 
-- Video recording: []()
+- Video recording: [HERE](https://drive.google.com/file/d/1QRcI7mjBG87IqcyPtKO_nncUhoxVJj0M/view?usp=sharing)
+
+### Extra Resources: Latent Profile Analysis (LPA)
+
+- Repository: [Intro_to_LPA](https://github.com/MM4DBER/Intro_to_LPA)
 
 
 ------------------------------------------------------------------------
