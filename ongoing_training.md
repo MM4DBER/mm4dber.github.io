@@ -84,6 +84,22 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 ------------------------------------------------------------------------
 
+
+### February 2nd Group Meeting 
+
+- Application of LPA - Dina:
+
+LPA in R code-along:
+
+- [Handout](https://mm4dber.github.io/Intro_to_LPA.html)
+- [Repository](https://github.com/MM4DBER/Intro_to_LPA)
+
+- Video recording:
+
+
+
+------------------------------------------------------------------------
+
 Helpful Links:
 
 -   Please [visit our website](https://mm4dbers.education.ucsb.edu/) to learn more.
