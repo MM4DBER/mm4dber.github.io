@@ -96,8 +96,7 @@ LPA in R code-along:
 - [Repository](https://github.com/MM4DBER/Intro_to_LPA)
 - [Reading: Masyn chapter (p. 36-52)](https://www.statmodel.com/download/Masyn_2013.pdf)
 
-Video recording:
-
+Video recording: [HERE](https://drive.google.com/file/d/14IN03sgA2Ro3tOGkSeKPMkJvJ77pmpAV/view?usp=sharing)
 
 
 ------------------------------------------------------------------------
