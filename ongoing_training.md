@@ -87,7 +87,8 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 
 ### February 2nd Group Meeting 
 
-- Application of LPA - Dina:
+Application of LPA - Dina Verdin:
+- [Presentation Slides](mm4dber.github.io/DVerdin_MM4DBER_Presentation.pdf)
 
 LPA in R code-along:
 
