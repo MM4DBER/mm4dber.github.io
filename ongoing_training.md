@@ -90,13 +90,17 @@ https://journals.sagepub.com/doi/abs/10.3102/0013189x07309471
 Application of LPA - Dina Verdin:
 - [Presentation Slides](https://mm4dber.github.io/DVerdin_MM4DBER_Presentation.pdf)
 
+Video recording: [HERE](https://drive.google.com/file/d/14IN03sgA2Ro3tOGkSeKPMkJvJ77pmpAV/view?usp=sharing)
+
+------------------------------------------------------------------------
+
+### February 23 - Extra Meeting 
+
 LPA in R code-along:
 
 - [Handout](https://mm4dber.github.io/Intro_to_LPA.html)
 - [Repository](https://github.com/MM4DBER/Intro_to_LPA)
 - [Reading: Masyn chapter (p. 36-52)](https://www.statmodel.com/download/Masyn_2013.pdf)
-
-Video recording: [HERE](https://drive.google.com/file/d/14IN03sgA2Ro3tOGkSeKPMkJvJ77pmpAV/view?usp=sharing)
 
 
 ------------------------------------------------------------------------
